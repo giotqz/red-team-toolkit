@@ -1,0 +1,35 @@
+# Core dependencies
+requests>=2.31.0
+pyyaml>=6.0
+python-dotenv>=1.0.0
+
+# Network scanning
+scapy>=2.5.0
+nmap>=0.0.1
+
+# Web scanning
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Exploitation & testing
+paramiko>=3.3.0
+pwncat>=0.7.0
+
+# Cryptography & encoding
+cryptography>=41.0.0
+pycryptodome>=3.18.0
+
+# Reporting
+jinja2>=3.1.0
+reportlab>=4.0.0
+
+# Logging & utilities
+colorama>=0.4.6
+tqdm>=4.66.0
+tabulate>=0.9.0
+
+# Development & testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.7.0
+flake8>=6.1.0
